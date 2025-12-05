@@ -1,0 +1,136 @@
+{
+  "official_media": {
+    "iwate_nippon": {
+      "name": "岩手日報",
+      "url": "https://www.iwatetelep.co.jp/",
+      "category": "地元紙・公式メディア",
+      "language": "ja",
+      "region": "岩手県全域"
+    },
+    "ibarakaki": {
+      "name": "岩手朝日テレビ",
+      "url": "https://www.ibaraki.co.jp/",
+      "category": "テレビ局公式サイト",
+      "language": "ja",
+      "region": "岩手県全域"
+    },
+    "tbc": {
+      "name": "東北放送",
+      "url": "https://hbc.co.jp/",
+      "category": "テレビ・ラジオ局",
+      "language": "ja",
+      "region": "東北地方（岩手含む）"
+    }
+  },
+  "prefectural_government": {
+    "pref_iwate": {
+      "name": "岩手県公式サイト",
+      "url": "https://www.pref.iwate.jp/",
+      "category": "県政情報・行政発表",
+      "language": "ja",
+      "region": "岩手県"
+    },
+    "iwate_disaster": {
+      "name": "岩手県防災ポータル",
+      "url": "https://www.pref.iwate.jp/bosai/",
+      "category": "防災・安全情報",
+      "language": "ja",
+      "region": "岩手県"
+    }
+  },
+  "major_cities": {
+    "morioka_city": {
+      "name": "盛岡市公式サイト",
+      "url": "https://www.city.morioka.iwate.jp/",
+      "category": "市役所情報",
+      "language": "ja",
+      "region": "盛岡市"
+    },
+    "ofunato_city": {
+      "name": "大船渡市公式サイト",
+      "url": "https://www.city.ofunato.iwate.jp/",
+      "category": "市役所情報",
+      "language": "ja",
+      "region": "大船渡市"
+    },
+    "rikuzentakata_city": {
+      "name": "陸前高田市公式サイト",
+      "url": "https://www.city.rikuzentakata.iwate.jp/",
+      "category": "市役所情報",
+      "language": "ja",
+      "region": "陸前高田市"
+    },
+    "kamaishi_city": {
+      "name": "釜石市公式サイト",
+      "url": "https://www.city.kamaishi.iwate.jp/",
+      "category": "市役所情報",
+      "language": "ja",
+      "region": "釜石市"
+    },
+    "ichinoseki_city": {
+      "name": "一関市公式サイト",
+      "url": "https://www.city.ichinoseki.iwate.jp/",
+      "category": "市役所情報",
+      "language": "ja",
+      "region": "一関市"
+    }
+  },
+  "economy_tourism": {
+    "iwate_tourism": {
+      "name": "いわて観光ポータル",
+      "url": "https://www.iwate-tourism.jp/",
+      "category": "観光情報",
+      "language": "ja",
+      "region": "岩手県全域"
+    },
+    "iwate_industry": {
+      "name": "岩手県産業振興センター",
+      "url": "https://www.iwate-sangyo.or.jp/",
+      "category": "産業・経済情報",
+      "language": "ja",
+      "region": "岩手県全域"
+    }
+  },
+  "education_research": {
+    "iwate_university": {
+      "name": "岩手大学",
+      "url": "https://www.iwate-u.ac.jp/",
+      "category": "大学・研究機関",
+      "language": "ja",
+      "region": "盛岡市"
+    },
+    "iwate_education": {
+      "name": "岩手県教育委員会",
+      "url": "https://www.pref.iwate.jp/kodomo/shidou/",
+      "category": "教育情報",
+      "language": "ja",
+      "region": "岩手県"
+    }
+  },
+  "national_media_local": {
+    "nhk_morioka": {
+      "name": "NHK盛岡放送局",
+      "url": "https://www.nhk.or.jp/morioka/",
+      "category": "NHK地域ニュース",
+      "language": "ja",
+      "region": "岩手県"
+    },
+    "mainichi_iwate": {
+      "name": "毎日新聞岩手版",
+      "url": "https://mainichi.jp/iwate/",
+      "category": "全国紙地域版",
+      "language": "ja",
+      "region": "岩手県"
+    }
+  },
+  "regional_cooperation": {
+    "tohoku_federation": {
+      "name": "東北地方知事会",
+      "url": "https://www.tohoku-chijikai.gr.jp/",
+      "category": "地方自治体連携",
+      "language": "ja",
+      "region": "東北6県"
+    }
+  },
+  "last_checked": "2025-12-05"
+}

@@ -1,0 +1,89 @@
+{
+  "tech_companies": {
+    "google": {
+      "name": "Google AI Blog",
+      "url": "https://ai.googleblog.com/",
+      "category": "AI Research & Updates",
+      "language": "en"
+    },
+    "openai": {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog/",
+      "category": "AI Research & Product Updates",
+      "language": "en"
+    },
+    "anthropic": {
+      "name": "Anthropic Blog",
+      "url": "https://www.anthropic.com/news",
+      "category": "AI Research & Safety",
+      "language": "en"
+    },
+    "microsoft": {
+      "name": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/",
+      "category": "Research & Technology",
+      "language": "en"
+    },
+    "meta": {
+      "name": "Meta AI Blog",
+      "url": "https://ai.meta.com/blog/",
+      "category": "AI Research & Metaverse",
+      "language": "en"
+    }
+  },
+  "development_tools": {
+    "cursor": {
+      "name": "Cursor Blog",
+      "url": "https://www.cursor.com/blog",
+      "category": "AI Code Editor Updates",
+      "language": "en"
+    },
+    "github": {
+      "name": "GitHub Blog",
+      "url": "https://github.blog/",
+      "category": "Development Platform Updates",
+      "language": "en"
+    },
+    "vercel": {
+      "name": "Vercel Blog",
+      "url": "https://vercel.com/blog",
+      "category": "Cloud Platform & Framework Updates",
+      "language": "en"
+    }
+  },
+  "ai_services": {
+    "huggingface": {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "category": "Open Source AI & Models",
+      "language": "en"
+    },
+    "replicate": {
+      "name": "Replicate Blog",
+      "url": "https://replicate.com/blog",
+      "category": "AI Model Platform Updates",
+      "language": "en"
+    },
+    "runway": {
+      "name": "Runway Blog",
+      "url": "https://runwayml.com/blog/",
+      "category": "AI Video & Creative Tools",
+      "language": "en"
+    }
+  },
+  "japanese_sources": {
+    "google_japan": {
+      "name": "Google Japan Blog",
+      "url": "https://japan.googleblog.com/",
+      "category": "Google Japan Updates",
+      "language": "ja"
+    },
+    "ntt": {
+      "name": "NTT Technical Journal",
+      "url": "https://www.ntt.co.jp/journal/",
+      "category": "Japanese Tech Research",
+      "language": "ja"
+    }
+  },
+  "last_checked": "2025-12-05"
+}
