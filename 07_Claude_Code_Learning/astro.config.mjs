@@ -45,7 +45,6 @@ export default defineConfig({
 		}),
 	],
 	output: 'static',
-	base: '/claude-code-learning',
 	build: {
 		format: 'directory',
 	},
