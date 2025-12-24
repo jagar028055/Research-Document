@@ -45,6 +45,7 @@ export default defineConfig({
 		}),
 	],
 	output: 'static',
+	base: '/Research-Document',
 	build: {
 		format: 'directory',
 	},
